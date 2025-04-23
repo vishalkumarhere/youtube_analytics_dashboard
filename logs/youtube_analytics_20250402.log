@@ -1,0 +1,159 @@
+2025-04-02 01:27:37,944 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 01:27:37,963 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 01:27:56,149 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 01:27:56,162 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 01:27:57,835 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 01:27:58,194 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 01:27:58,254 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:01,129 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:02,957 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 01:28:02,975 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 01:28:04,696 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 01:28:04,759 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:07,563 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:11,258 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 01:28:50,219 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 01:28:50,236 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 01:28:51,631 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 01:28:51,690 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:54,037 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 01:28:56,728 - logging_config - INFO - Successfully retrieved 50 trending videos for region IN
+2025-04-02 21:04:45,318 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:04:45,331 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:05:36,858 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:05:36,866 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:05:37,894 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:05:38,244 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:05:38,376 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:05:41,391 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:05:41,401 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:05:41,945 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:05:42,611 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:05:42,701 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:05:45,733 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:05:46,929 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=4, connect=4, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9BF7E010>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:05:48,467 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=4, connect=4, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9C08A790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:05:53,631 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=3, connect=3, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9C09A750>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:05:55,178 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=3, connect=3, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9C0AAFD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:04,352 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=2, connect=2, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9C07FED0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:05,872 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=2, connect=2, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9C07E550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:23,043 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=1, connect=1, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B283CD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:24,559 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=1, connect=1, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B283210>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:57,756 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=0, connect=0, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B281310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:06:59,285 - urllib3.connectionpool - WARNING - Retrying (JitteredRetry(total=0, connect=0, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B280610>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /api/2.0/mlflow/runs/create
+2025-04-02 21:07:00,465 - logging_config - ERROR - Error analyzing channel: API request to http://mlflow:5000/api/2.0/mlflow/runs/create failed with exception HTTPConnectionPool(host='mlflow', port=5000): Max retries exceeded with url: /api/2.0/mlflow/runs/create (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B27F950>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-04-02 21:07:01,991 - logging_config - ERROR - Error analyzing channel: API request to http://mlflow:5000/api/2.0/mlflow/runs/create failed with exception HTTPConnectionPool(host='mlflow', port=5000): Max retries exceeded with url: /api/2.0/mlflow/runs/create (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013C9B27E310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-04-02 21:10:13,223 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:10:13,236 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:10:22,365 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:10:22,376 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:10:23,881 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:10:24,200 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:10:24,266 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:10:25,053 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:10:25,064 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:10:26,046 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:10:26,100 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:10:26,465 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:10:28,249 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:10:30,786 - logging_config - ERROR - Error analyzing channel: RESOURCE_DOES_NOT_EXIST: No Experiment with id=930667773292072959 exists
+2025-04-02 21:10:30,786 - logging_config - ERROR - Error analyzing channel: RESOURCE_DOES_NOT_EXIST: No Experiment with id=930667773292072959 exists
+2025-04-02 21:19:04,848 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:19:04,862 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:19:11,622 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:19:11,629 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:19:13,255 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:19:13,599 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:19:13,671 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:19:14,868 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:19:14,875 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:19:15,665 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:19:15,711 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:19:15,817 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:19:16,636 - logging_config - ERROR - Error analyzing channel: module 'matplotlib' has no attribute 'figure'
+2025-04-02 21:19:18,080 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:19:18,238 - logging_config - ERROR - Error analyzing channel: module 'matplotlib' has no attribute 'figure'
+2025-04-02 21:20:30,718 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:20:30,728 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:20:35,905 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:20:35,913 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:20:36,807 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:20:37,141 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:20:37,210 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:20:37,667 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:20:37,676 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:20:38,846 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:20:38,901 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:20:39,061 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:20:41,233 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:21:04,712 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 21:21:04,730 - logging_config - ERROR - Error analyzing trends: Run with UUID 040c86d184774b5b87604e47ed426a6f is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2025-04-02 21:21:39,766 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:21:39,782 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:21:41,634 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:21:41,706 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:21:43,761 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:22:05,849 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 21:22:05,906 - logging_config - ERROR - Error analyzing trends: Run with UUID f51dfc0752ae485fa0d364f961f0ecc1 is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2025-04-02 21:28:45,808 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:28:45,819 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:28:52,124 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:28:52,132 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:28:53,196 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:28:53,531 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:28:53,615 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:28:55,026 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:28:55,035 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:28:56,148 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:28:56,245 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:28:57,010 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:28:59,473 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:29:20,584 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 21:29:20,603 - logging_config - ERROR - Error analyzing trends: Run with UUID 6144afc178f443d0824b5dda32f07a44 is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2025-04-02 21:32:42,303 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:32:42,310 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:33:14,134 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:33:14,140 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:33:15,768 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:33:16,175 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:33:16,239 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:33:16,982 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:33:16,989 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:33:17,829 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:33:17,875 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:33:18,230 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:33:20,272 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:33:41,303 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 21:33:41,648 - logging_config - ERROR - Error in trend prediction: Run with UUID 4e5542c357ee441d90c85468cdfa0da0 is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True
+2025-04-02 21:36:13,484 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:36:13,494 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:36:13,499 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:36:13,507 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:36:31,119 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:36:31,126 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:36:31,970 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:36:32,275 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:36:32,358 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:36:33,571 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:36:33,577 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:36:34,299 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:36:34,425 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:36:34,475 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:36:36,682 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:36:56,602 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 21:54:13,284 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:54:13,294 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:55:08,735 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:55:08,744 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:55:09,667 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-02 21:55:10,152 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-02 21:55:10,235 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:55:10,735 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-02 21:55:10,743 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-02 21:55:11,891 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-02 21:55:12,114 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:55:14,651 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:55:16,086 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-02 21:55:36,327 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-02 22:14:34,375 - logging_config - ERROR - Failed to initialize YouTube API: (sqlite3.OperationalError) unable to open database file
+(Background on this error at: https://sqlalche.me/e/20/e3q8)

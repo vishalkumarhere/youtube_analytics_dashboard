@@ -1,0 +1,48 @@
+2025-04-17 00:11:56,647 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-17 00:11:56,648 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-17 00:11:56,672 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:11:56,691 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:12:04,710 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:12:04,713 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:12:05,494 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-17 00:12:05,802 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-17 00:12:05,877 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-17 00:12:07,418 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:12:07,424 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:12:08,099 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-17 00:12:08,187 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-17 00:12:09,477 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-17 00:12:12,150 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-17 00:12:28,870 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-17 00:45:10,929 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-17 00:45:10,930 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-17 00:45:10,975 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:45:10,979 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:45:18,158 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:45:18,162 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:45:19,120 - logging_config - INFO - Found 5 channels for query: PewDiePie
+2025-04-17 00:45:19,615 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: PewDiePie
+2025-04-17 00:45:19,832 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-17 00:45:20,874 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 00:45:20,879 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 00:45:21,556 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: PewDiePie
+2025-04-17 00:45:21,648 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-17 00:45:24,942 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-17 00:45:25,669 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-17 00:45:39,172 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-17 19:00:44,652 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-17 19:00:44,653 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-17 19:00:44,690 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 19:00:44,720 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 19:00:54,243 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 19:00:54,247 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 19:00:55,064 - logging_config - INFO - Found 5 channels for query: kurzgesagt
+2025-04-17 19:00:55,385 - logging_config - INFO - Found channel ID: UCsXVk37bltHxD1rDPwtNM8Q for channel name: kurzgesagt
+2025-04-17 19:00:55,439 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCsXVk37bltHxD1rDPwtNM8Q
+2025-04-17 19:00:56,862 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-17 19:00:56,866 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-17 19:00:57,459 - logging_config - INFO - Found channel ID: UCsXVk37bltHxD1rDPwtNM8Q for channel name: Kurzgesagt – In a Nutshell
+2025-04-17 19:00:57,549 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCsXVk37bltHxD1rDPwtNM8Q
+2025-04-17 19:00:58,158 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUsXVk37bltHxD1rDPwtNM8Q
+2025-04-17 19:00:59,912 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUsXVk37bltHxD1rDPwtNM8Q
+2025-04-17 19:01:16,476 - logging_config - INFO - Successfully retrieved 50 trending videos for region US

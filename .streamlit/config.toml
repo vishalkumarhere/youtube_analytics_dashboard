@@ -1,0 +1,27 @@
+[theme]
+# Primary accent color for interactive elements
+primaryColor = "#FF0000"  # YouTube Red
+
+# Background color for the main content area
+backgroundColor = "#FFFFFF"  # White
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = "#F8F9FA"  # Light Gray
+
+# Color used for almost all text
+textColor = "#1E1E1E"  # Dark Gray
+
+# Font family for all text in the app, except code blocks
+# Accepted values: "sans serif", "serif", "monospace"
+font = "sans serif"
+
+[server]
+# Automatically rerun script when the app is updated
+runOnSave = true
+
+[browser]
+# Port where the server will listen for browser connections
+serverPort = 8501
+
+# Whether to open the browser automatically when the server starts
+gatherUsageStats = false 

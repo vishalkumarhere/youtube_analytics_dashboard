@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore MLflow artifacts
+mlruns/
+mlflow.db
+
+# macOS system file
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+
+youtube/logs/

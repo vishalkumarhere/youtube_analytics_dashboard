@@ -1,0 +1,141 @@
+2025-04-23 00:32:58,084 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 00:32:58,084 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 00:32:58,158 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:32:58,158 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:33:06,891 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:33:06,895 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:33:07,383 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 00:33:08,160 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 00:33:09,007 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:33:16,594 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:33:16,599 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:33:17,005 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: Marques Brownlee
+2025-04-23 00:33:17,665 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:33:20,967 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:33:20,986 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:33:21,426 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 00:33:22,251 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 00:33:23,134 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:35:14,907 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 00:35:14,907 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 00:35:14,924 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:35:14,928 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:35:19,703 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:35:19,708 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:35:20,113 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 00:35:20,958 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 00:35:21,333 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:35:21,340 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:35:21,720 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: Marques Brownlee
+2025-04-23 00:35:21,770 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:35:22,399 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:35:58,390 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 00:35:58,398 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 00:35:58,750 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 00:35:59,631 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 00:36:00,471 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:36:11,833 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:36:12,486 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:36:32,427 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 00:36:32,678 - logging_config - ERROR - Application error: Cannot subtract tz-naive and tz-aware datetime-like objects.
+2025-04-23 00:36:51,001 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 00:36:57,841 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 00:36:58,100 - logging_config - ERROR - Application error: Cannot subtract tz-naive and tz-aware datetime-like objects.
+2025-04-23 01:00:55,425 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 01:00:55,425 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 01:00:55,445 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:00:55,449 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:01:01,778 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:01:01,785 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:01:02,153 - logging_config - INFO - Found 5 channels for query: coldfusion
+2025-04-23 01:01:03,089 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: coldfusion
+2025-04-23 01:01:03,835 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-23 01:01:04,133 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:01:04,141 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:01:04,477 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-23 01:01:05,215 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-23 01:01:38,968 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:01:38,977 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:01:39,389 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 01:01:40,218 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 01:01:41,069 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:01:53,969 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-23 01:01:55,315 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-23 01:02:05,801 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 01:02:05,959 - logging_config - ERROR - Application error: Cannot subtract tz-naive and tz-aware datetime-like objects.
+2025-04-23 01:02:31,315 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:02:37,417 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 01:02:37,537 - logging_config - ERROR - Application error: Cannot subtract tz-naive and tz-aware datetime-like objects.
+2025-04-23 01:05:26,070 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:26,070 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:26,073 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:05:26,077 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:05:57,739 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:57,742 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:05:57,742 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:57,748 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:05:59,785 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:59,785 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:05:59,790 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:05:59,792 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:07:34,591 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:07:34,591 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:07:34,594 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:07:34,596 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:07:59,264 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:07:59,267 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:07:59,779 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 01:08:00,561 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 01:08:01,097 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:08:01,097 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:08:01,328 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:08:01,506 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: Marques Brownlee
+2025-04-23 01:08:02,164 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:08:27,189 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 01:08:27,189 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 01:08:27,189 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 01:08:27,189 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 01:08:27,208 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:08:27,208 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:08:27,212 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:08:27,216 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:08:31,090 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:08:31,094 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:08:31,568 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 01:08:32,337 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 01:08:32,921 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:08:32,925 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:08:33,160 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:08:33,282 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: Marques Brownlee
+2025-04-23 01:08:33,996 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:09:23,265 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:09:24,131 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:09:33,778 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 01:09:33,941 - logging_config - ERROR - Application error: Cannot subtract tz-naive and tz-aware datetime-like objects.
+2025-04-23 01:28:38,038 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-23 01:28:38,038 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-23 01:28:38,095 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:28:38,130 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:28:46,132 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:28:46,138 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:28:46,599 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 01:28:47,369 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 01:28:47,717 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:28:47,723 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:28:48,053 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: Marques Brownlee
+2025-04-23 01:28:48,188 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:28:48,698 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:28:48,704 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:28:48,931 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:28:56,527 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-23 01:28:56,530 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-23 01:28:56,808 - logging_config - INFO - Found 5 channels for query: mkbhd
+2025-04-23 01:28:57,787 - logging_config - INFO - Found channel ID: UCBJycsmduvYEL83R_U4JriQ for channel name: mkbhd
+2025-04-23 01:28:58,580 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:29:38,387 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:29:39,032 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:29:48,727 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUBJycsmduvYEL83R_U4JriQ
+2025-04-23 01:29:51,277 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 01:29:51,349 - logging_config - ERROR - Application error: "['metrics.r2', 'metrics.rmse'] not in index"
+2025-04-23 01:29:53,812 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
+2025-04-23 01:29:53,903 - logging_config - ERROR - Application error: "['metrics.r2', 'metrics.rmse'] not in index"

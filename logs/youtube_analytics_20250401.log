@@ -1,0 +1,256 @@
+2025-04-01 16:48:23,552 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:48:23,576 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:48:59,875 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:48:59,878 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:49:00,363 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 16:49:00,364 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 16:49:00,365 - logging_config - ERROR - Application error: cannot unpack non-iterable NoneType object
+2025-04-01 16:50:54,430 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:50:54,433 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:51:01,163 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:51:01,165 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:51:01,931 - logging_config - INFO - Found channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg for channel name: travis scott
+2025-04-01 16:51:01,989 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 16:51:01,989 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 16:51:10,642 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:51:10,644 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:51:11,164 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: PewDiePie
+2025-04-01 16:51:11,342 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 16:51:11,342 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 16:51:29,462 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:51:29,503 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:51:33,811 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 16:51:33,813 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 16:51:34,343 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: PewDiePie
+2025-04-01 16:51:34,415 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 16:51:34,416 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 18:03:50,422 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:03:50,454 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:04:04,137 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:04:04,139 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:04:04,736 - logging_config - INFO - Found 5 channels for query: pewdiepie
+2025-04-01 18:04:05,014 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: pewdiepie
+2025-04-01 18:04:05,108 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 18:04:05,109 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 18:04:10,580 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:04:10,585 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:04:11,132 - logging_config - INFO - Found channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw for channel name: PewDiePie
+2025-04-01 18:04:11,192 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 18:04:11,192 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UU-lHJZR3Gqxm24_Vd_AJ5Yw
+2025-04-01 18:04:44,087 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:04:44,091 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:04:44,773 - logging_config - INFO - Found 5 channels for query: travis scott
+2025-04-01 18:04:45,195 - logging_config - INFO - Found channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg for channel name: travis scott
+2025-04-01 18:04:45,248 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:04:45,249 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:04:49,787 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:04:49,793 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:04:50,301 - logging_config - INFO - Found channel ID: UCrvGwyf_YnoFpsYMA80Plnw for channel name: TravisScottVEVO
+2025-04-01 18:04:50,407 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCrvGwyf_YnoFpsYMA80Plnw
+2025-04-01 18:04:50,407 - logging_config - INFO - Successfully retrieved 0 videos from playlist: UUrvGwyf_YnoFpsYMA80Plnw
+2025-04-01 18:05:48,965 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:05:48,967 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:05:53,930 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:05:53,933 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:05:54,622 - logging_config - INFO - Found 5 channels for query: travis scott
+2025-04-01 18:05:55,031 - logging_config - INFO - Found channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg for channel name: travis scott
+2025-04-01 18:05:55,125 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:05:57,899 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:06:02,418 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:06:02,425 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:06:03,049 - logging_config - INFO - Found channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg for channel name: Travis Scott
+2025-04-01 18:06:03,107 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:06:05,847 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:15:39,636 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:15:39,639 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:15:49,004 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:15:49,008 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:15:49,760 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:15:50,106 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:15:50,164 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:15:53,246 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:15:54,838 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:15:54,844 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:15:56,071 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:15:56,156 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:15:58,726 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:23:13,137 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:23:13,140 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:23:21,599 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:23:21,602 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:23:22,299 - logging_config - INFO - Found 5 channels for query: smartereveryday
+2025-04-01 18:23:22,594 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: smartereveryday
+2025-04-01 18:23:22,653 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-01 18:23:24,342 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:23:24,345 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:23:24,862 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: SmarterEveryDay
+2025-04-01 18:23:24,920 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-01 18:23:25,600 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-01 18:23:25,687 - logging_config - ERROR - Error analyzing channel: max_df corresponds to < documents than min_df
+2025-04-01 18:23:28,073 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-01 18:23:28,101 - logging_config - ERROR - Error analyzing channel: max_df corresponds to < documents than min_df
+2025-04-01 18:24:43,471 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:24:43,474 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:24:44,049 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: smartereveryday
+2025-04-01 18:24:44,139 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-01 18:24:46,738 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-01 18:24:46,823 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:24:46,885 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:24:46,892 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:24:47,428 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: SmarterEveryDay
+2025-04-01 18:24:47,490 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-01 18:24:50,190 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-01 18:24:50,283 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:29:13,856 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:29:13,859 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:29:22,492 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:29:22,495 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:29:23,126 - logging_config - INFO - Found 5 channels for query: kurzgesagt
+2025-04-01 18:29:23,422 - logging_config - INFO - Found channel ID: UCsXVk37bltHxD1rDPwtNM8Q for channel name: kurzgesagt
+2025-04-01 18:29:23,579 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCsXVk37bltHxD1rDPwtNM8Q
+2025-04-01 18:29:24,760 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:29:24,764 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:29:25,309 - logging_config - INFO - Found channel ID: UCsXVk37bltHxD1rDPwtNM8Q for channel name: Kurzgesagt – In a Nutshell
+2025-04-01 18:29:25,355 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCsXVk37bltHxD1rDPwtNM8Q
+2025-04-01 18:29:26,351 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUsXVk37bltHxD1rDPwtNM8Q
+2025-04-01 18:29:26,538 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:29:27,878 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUsXVk37bltHxD1rDPwtNM8Q
+2025-04-01 18:29:28,024 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:42:03,184 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:03,188 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:09,130 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:09,133 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:10,035 - logging_config - INFO - Found 5 channels for query: travis scott
+2025-04-01 18:42:10,502 - logging_config - INFO - Found channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg for channel name: travis scott
+2025-04-01 18:42:10,567 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:42:12,053 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:12,057 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:12,601 - logging_config - INFO - Found channel ID: UCrvGwyf_YnoFpsYMA80Plnw for channel name: TravisScottVEVO
+2025-04-01 18:42:12,699 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCrvGwyf_YnoFpsYMA80Plnw
+2025-04-01 18:42:12,933 - logging_config - INFO - Successfully retrieved 1 videos from playlist: UUrvGwyf_YnoFpsYMA80Plnw
+2025-04-01 18:42:12,960 - logging_config - ERROR - Error in content clustering: max_df corresponds to < documents than min_df
+2025-04-01 18:42:12,961 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:42:13,226 - logging_config - ERROR - Error training view predictor: Bin edges must be unique: Index([1.8333333333333335, 1.8333333333333335, 1.8333333333333335,
+       1.8333333333333335, 1.8333333333333335, 1.8333333333333335],
+      dtype='float64', name='duration_minutes').
+You can drop duplicate edges by setting the 'duplicates' kwarg
+2025-04-01 18:42:13,231 - logging_config - ERROR - Error training engagement predictor: Bin edges must be unique: Index([1.8333333333333335, 1.8333333333333335, 1.8333333333333335,
+       1.8333333333333335, 1.8333333333333335, 1.8333333333333335],
+      dtype='float64', name='duration_minutes').
+You can drop duplicate edges by setting the 'duplicates' kwarg
+2025-04-01 18:42:14,768 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UUtxdfwb9wfkoGocVUAJ-Bmg
+2025-04-01 18:42:14,848 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:42:19,278 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:19,281 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:20,136 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:42:20,480 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:42:20,564 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:24,211 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:24,308 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:42:26,235 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:26,238 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:36,077 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:36,081 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:36,729 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:42:37,154 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:42:37,265 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:39,491 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:42:39,496 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:42:40,247 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:42:40,345 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:41,225 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:41,327 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:42:44,710 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:42:44,797 - logging_config - ERROR - Error in trending topics analysis: max_df corresponds to < documents than min_df
+2025-04-01 18:46:46,005 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:46:46,008 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:46:46,826 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:46:46,980 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:46:50,239 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:46:50,243 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:46:50,450 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:46:50,947 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:46:51,012 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:46:54,611 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:49:01,433 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:49:01,435 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:49:08,460 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:49:08,462 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:49:09,156 - logging_config - INFO - Found 5 channels for query: coldfusion
+2025-04-01 18:49:09,564 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: coldfusion
+2025-04-01 18:49:09,622 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:49:12,217 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:49:13,452 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:49:13,455 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:49:14,159 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:49:14,213 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:49:17,805 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:52:38,324 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:52:38,327 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:52:44,476 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:52:44,479 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:52:45,099 - logging_config - INFO - Found 5 channels for query: the weeknd
+2025-04-01 18:52:45,404 - logging_config - INFO - Found channel ID: UC0WP5P-ufpRfjbNrmOWwLBQ for channel name: the weeknd
+2025-04-01 18:52:45,452 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC0WP5P-ufpRfjbNrmOWwLBQ
+2025-04-01 18:52:46,440 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:52:46,445 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:52:47,035 - logging_config - INFO - Found channel ID: UC0WP5P-ufpRfjbNrmOWwLBQ for channel name: The Weeknd
+2025-04-01 18:52:47,132 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC0WP5P-ufpRfjbNrmOWwLBQ
+2025-04-01 18:52:47,726 - logging_config - ERROR - Error analyzing channel: 'viewCount'
+2025-04-01 18:52:49,369 - logging_config - ERROR - Error analyzing channel: 'viewCount'
+2025-04-01 18:53:09,999 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:53:10,002 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:53:10,707 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:53:11,012 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:53:11,104 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:14,587 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:14,866 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:53:14,870 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:53:20,875 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:53:20,878 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:53:21,432 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:53:21,789 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:53:21,872 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:23,781 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:53:23,783 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:53:24,361 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:53:24,409 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:24,509 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:26,892 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:53:27,527 - logging_config - ERROR - Error fetching trending videos: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=US&videoCategoryId=&maxResults=50&key=AIzaSyARAZdPlC4qOPtzlCUGFjIk5X1hn7E5kQ4&alt=json returned "The requested video chart is not supported or is not available.". Details: "[{'message': 'The requested video chart is not supported or is not available.', 'domain': 'youtube.video', 'reason': 'videoChartNotFound'}]">
+2025-04-01 18:57:43,664 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:57:43,667 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:57:44,270 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:57:44,354 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:57:46,035 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:57:46,038 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:57:46,576 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:57:46,633 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:57:47,302 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:57:50,167 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:57:50,722 - logging_config - ERROR - Error fetching trending videos: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2025-03-25T18%3A57%3A50.647406Z&regionCode=US&maxResults=50&videoCategoryId=&key=AIzaSyARAZdPlC4qOPtzlCUGFjIk5X1hn7E5kQ4&alt=json returned "Request contains an invalid argument.". Details: "[{'message': 'Request contains an invalid argument.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-04-01 18:58:47,462 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:58:47,465 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:58:50,885 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:58:50,888 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:58:51,549 - logging_config - INFO - Found 5 channels for query: cold fusion
+2025-04-01 18:58:51,839 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:58:51,890 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:58:53,128 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:58:53,132 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:58:53,723 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:58:53,787 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:58:54,307 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:58:56,424 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:58:57,170 - logging_config - ERROR - Error fetching trending videos: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2025-03-25T18%3A58%3A57.049724Z&regionCode=US&maxResults=50&videoCategoryId=&key=AIzaSyARAZdPlC4qOPtzlCUGFjIk5X1hn7E5kQ4&alt=json returned "Request contains an invalid argument.". Details: "[{'message': 'Request contains an invalid argument.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-04-01 18:59:50,463 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:59:50,465 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:59:51,096 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: cold fusion
+2025-04-01 18:59:51,153 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:59:52,475 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-01 18:59:52,478 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-01 18:59:53,069 - logging_config - INFO - Found channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A for channel name: ColdFusion
+2025-04-01 18:59:53,116 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:59:53,933 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:59:55,637 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU4QZ_LsYcvcq7qOsOhpAX4A
+2025-04-01 18:59:56,655 - logging_config - INFO - Successfully retrieved 50 trending videos for region US

@@ -1,0 +1,35 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs and data
+logs/*
+mlruns/*
+!logs/.gitkeep
+!mlruns/.gitkeep
+
+# Documentation
+*.pdf
+README.md
+README.Docker.md
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo 

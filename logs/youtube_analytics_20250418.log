@@ -1,0 +1,16 @@
+2025-04-18 15:18:29,363 - alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+2025-04-18 15:18:29,364 - alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+2025-04-18 15:18:29,378 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-18 15:18:29,392 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-18 15:18:58,803 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-18 15:18:58,807 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-18 15:18:59,531 - logging_config - INFO - Found 5 channels for query: smartereveryday
+2025-04-18 15:18:59,827 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: smartereveryday
+2025-04-18 15:18:59,890 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-18 15:19:03,438 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-18 15:19:04,975 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-18 15:19:04,980 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-18 15:19:05,504 - logging_config - INFO - Found channel ID: UC6107grRI4m0o2-emgoDnAA for channel name: SmarterEveryDay
+2025-04-18 15:19:05,587 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UC6107grRI4m0o2-emgoDnAA
+2025-04-18 15:19:07,956 - logging_config - INFO - Successfully retrieved 50 videos from playlist: UU6107grRI4m0o2-emgoDnAA
+2025-04-18 15:19:15,581 - logging_config - INFO - Successfully retrieved 50 trending videos for region US

@@ -1,0 +1,15 @@
+2025-04-03 04:51:51,415 - matplotlib.font_manager - INFO - generated new fontManager
+2025-04-03 04:51:55,726 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-03 04:51:55,800 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-03 04:51:59,940 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-03 04:51:59,947 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-03 04:52:00,524 - logging_config - INFO - Found 5 channels for query: bayaan
+2025-04-03 04:52:00,871 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: bayaan
+2025-04-03 04:52:00,956 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-03 04:52:01,779 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-03 04:52:01,850 - logging_config - INFO - YouTube API client initialized successfully
+2025-04-03 04:52:02,294 - logging_config - INFO - Found channel ID: UCqOLlRNuWqswf30c9AJC-Cg for channel name: Bayaan
+2025-04-03 04:52:02,374 - logging_config - INFO - Successfully retrieved channel stats for channel ID: UCqOLlRNuWqswf30c9AJC-Cg
+2025-04-03 04:52:04,290 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-03 04:52:05,712 - logging_config - INFO - Successfully retrieved 37 videos from playlist: UUqOLlRNuWqswf30c9AJC-Cg
+2025-04-03 04:52:31,765 - logging_config - INFO - Successfully retrieved 50 trending videos for region US
