@@ -1,15 +1,37 @@
-version: '3.8'
+# version: '3.8'
+
+# services:
+#   app:
+#     build: .
+#     ports:
+#       - "8501:8501"
+#     volumes:
+#       - ./logs:/app/logs
+#       - ./mlruns:/app/mlruns
+#     env_file:
+#       - .env
+#     environment:
+#       - MLFLOW_TRACKING_URI=sqlite:///mlruns/mlflow.db
+#     restart: unless-stopped 
+
+
 
 services:
-  app:
+  streamlit:
     build: .
     ports:
       - "8501:8501"
-    volumes:
-      - ./logs:/app/logs
-      - ./mlruns:/app/mlruns
-    env_file:
-      - .env
     environment:
-      - MLFLOW_TRACKING_URI=sqlite:///mlruns/mlflow.db
-    restart: unless-stopped 
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - .:/app
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow
+    ports:
+      - "5000:5000"
+    environment:
+      - BACKEND_STORE_URI=sqlite:///mlflow.db
+    volumes:
+      - ./mlruns:/mlflow/mlruns
+    command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri sqlite:///mlflow.db --default-artifact-root /mlflow/mlruns
